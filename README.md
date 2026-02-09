@@ -1,0 +1,2 @@
+# MGCCF
+This work was accepted by IEEE TRANSACTIONS ON MULTIMEDIA.
